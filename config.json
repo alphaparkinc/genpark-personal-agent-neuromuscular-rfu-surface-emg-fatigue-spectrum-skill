@@ -1,0 +1,10 @@
+{
+  "skill_id": 275,
+  "name": "genpark-personal-agent-neuromuscular-rfu-surface-emg-fatigue-spectrum-skill",
+  "ecosystem": "GenPark",
+  "portal": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "runtime": "python-3.8+",
+  "max_concurrency": 8,
+  "timeout_seconds": 30
+}
