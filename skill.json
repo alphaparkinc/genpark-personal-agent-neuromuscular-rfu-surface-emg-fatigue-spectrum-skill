@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-neuromuscular-rfu-surface-emg-fatigue-spectrum-skill",
+  "version": "1.0.0",
+  "title": "Neuromuscular RFU & sEMG Mean Power Frequency Fatigue Skill",
+  "category": "Personal Agent (Bio / Neuromuscular Biomechanics)",
+  "description": "Analyzes surface EMG Mean Power Frequency (MPF) and Median Frequency (MDF) leftward spectral shifts, rate of force development (RFD), and motor unit recruitment failure.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "analyze_semg_neuromuscular_fatigue"
+  ],
+  "dependencies": []
+}
